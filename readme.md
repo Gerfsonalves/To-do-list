@@ -1,5 +1,11 @@
 <div align="center">
 <h1 > Lista de tarefas </h1>
+<h2 style="color:yellow"> Integrado com testes de automação<br>
+com Cypress<br></h2>
+<li style="color:#e3e094">Adicionar e excluir tafera</li>
+<li style="color:#e3e094">Adicionar tarefa vazia, erro</li>
+<li style="color:#e3e094">Adiciona 2 tarefas e exclui a segunda</li>
+<hr>
 <img src="https://cdn-icons-png.flaticon.com/128/11367/11367088.png">
 <hr>
 <img src="https://github.com/Gerfsonalves/To-do-list/assets/141279689/e4f783b2-d39e-416d-8d44-2e1da6c1e1c0" alt="mobile" width="20%">
